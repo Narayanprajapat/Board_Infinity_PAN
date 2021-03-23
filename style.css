@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #ffffdd;
+	margin: 5px;
+}
+header > div {
+	text-align: center;
+	background-color: rgb(118, 23, 23);
+	color: #fff;
+}
+header > div > p {
+	font-style: italic;
+}
+table {
+	margin-top: 2px;
+	width: 90%;
+	border-collapse: collapse;
+}
+table,
+td {
+	border: 2px solid black;
+}
+strong {
+	text-align: start;
+}
+.asterisk {
+	color: red;
+	margin-right: 5px;
+}
+.yesNo {
+	margin-left: 500px;
+}
+.yesNo > span {
+	margin-left: 25px;
+}
+.pan {
+	margin-left: 400px;
+}
+.title {
+	margin-left: 100px;
+}
+.title .titleInside {
+	margin-left: 40px;
+}
